@@ -89,7 +89,7 @@ const bhs = [
 "Wajib (adjective)", 
 "Daftar (verb)", 
 "Pengawasan (noun)", 
-"A sudden action taken by a government or people in authority to stop or limit a particular activity (noun)", 
+"Penangguhan", 
 "Kerahasiaan (noun)", 
 "Terlibat (adjective)", 
 "Dilarang (noun)", 
